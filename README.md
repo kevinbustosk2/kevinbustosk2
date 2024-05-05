@@ -6,14 +6,14 @@ Ever since I was little boy, I’ve been super into everything computer related.
 
 <img src="/gif/kitten-cat.gif" width="300"/><img src="/gif/thank-you-thanks.gif" width="400"/>
 
-<a href="https://www.linkedin.com/in/kevin-bustos/">
-<img width="90" length="90" src="https://github.com/kevinbustosk2/kevinbustosk2/blob/main/image/Screenshot_2.png"></a>
+  <a href="https://www.linkedin.com/in/kevin-bustos/">
+  <img width="90" length="90" src="https://github.com/kevinbustosk2/kevinbustosk2/blob/main/image/Screenshot_2.png"></a>
 
-<a href="https://www.instagram.com/kevink2b2/">
-<img width="90" length="90" src="https://github.com/kevinbustosk2/kevinbustosk2/blob/main/image/Screenshot_1.png"></a>
+  <a href="https://www.instagram.com/kevink2b2/">
+  <img width="90" length="90" src="https://github.com/kevinbustosk2/kevinbustosk2/blob/main/image/Screenshot_1.png"></a>
 
-<a href="https://www.facebook.com/kevinbustosk">
-<img width="90" length="90" src="https://github.com/kevinbustosk2/kevinbustosk2/blob/main/image/Screenshot_3.png"></a>
+  <a href="https://www.facebook.com/kevinbustosk">
+  <img width="90" length="90" src="https://github.com/kevinbustosk2/kevinbustosk2/blob/main/image/Screenshot_3.png"></a>
  
 
 
