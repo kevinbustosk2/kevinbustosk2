@@ -4,7 +4,7 @@ Personal details: I was born on March 3rd, 1997, in General La Madrid, where I s
 
 Ever since I was little boy, I’ve been super into everything computer related. I taught myself a until I could start formal training, all thanks to my hometown, General La Madrid, which really values education. They’re always kicking off projects to help folks skill up in various specialties.
 
-<img src="/gif/kitten-cat.gif" width="300"/><img src="/gif/thank-you-thanks.gif" width="300"/>
+<img src="/gif/kitten-cat.gif" width="300"/><img src="/gif/thank-you-thanks.gif" width="400"/>
 
 <a href="https://www.linkedin.com/in/kevin-bustos/">
     <img width="100" length="100" src="https://github.com/kevinbustosk2/kevinbustosk2/blob/main/image/Screenshot_2.png">
