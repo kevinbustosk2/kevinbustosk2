@@ -12,7 +12,7 @@ Ever since I was little boy, I’ve been super into everything computer related.
 <img width="90" length="90" src="https://github.com/kevinbustosk2/kevinbustosk2/blob/main/image/Screenshot_3.png"></a>
 
   
-<img src="/gif/kitten-cat.gif" width="263"/><img src="/gif/thank-you-thanks.gif" width="351"/>
+<img src="/gif/kitten-cat.gif" width="263"/><img src="/gif/200.webp" width="351"/>
   
  
 
