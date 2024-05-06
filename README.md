@@ -1,5 +1,5 @@
 
-<img src="/image/largo.jpg" width="300" height="20"/>
+<img src="/image/largo.jpg" width="1900" height="50"/>
 
 <h2> Hi there 👋 My name is Kevin </h2>
 
