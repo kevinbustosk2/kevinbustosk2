@@ -12,7 +12,7 @@ Ever since I was little boy, I’ve been super into everything computer related.
 
 
   
-<img src="/gif/kitten-cat.gif" width="263"/>
+<img src="/image/OIG4.jpg" width="263"/>
   
  
 
