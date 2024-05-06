@@ -1,4 +1,4 @@
-<div style="background-color: #f03c15; padding: 10px; color: white;">
+<div style="background-color: red; padding: 10px; color: red;">
 Hi there 👋 My name is Kevin, and I’m a student at the bootcamp of programming of the National University of Tres de Febrero.
 
 Personal details: I was born on March 3rd, 1997, in General La Madrid, where I still live. I studied at Manuel Belgrano National School, and then I took a computer course.
