@@ -5,7 +5,7 @@ Ever since I was little boy, I’ve been super into everything computer related.
 <img align="left" src="/image/OIG4.jpg" width="150"/><img align="right" src="/gif/200.webp" width="150"/>
 
 
-<img src="/image/largo.jpg" width="1900" height="150"/>
+<img src="/image/largo.jpg" width="900" height="150"/>
 
 
 <p align="center">
@@ -16,8 +16,6 @@ Ever since I was little boy, I’ve been super into everything computer related.
 
 
 
-
-  
 
 
   
